@@ -52,6 +52,10 @@ import Overmon_Rpg from "./Overmon_Rpg.png"
 //#region Certificates
 import CcharpCertification from "./CcharpCertification.png";
 import UnityCertification from "./UnityCertification.png";
+import MasterCourseInMarketing_Fundamental from "./MasterCourseInMarketing_Fundamental.png";  
+import ProfessionalDiplomaIn_ProjectManagement from "./ProfessionalDiplomaIn_ProjectManagement.png";  
+import ProfessionalDiplomaIn_SocialMediaMarketingMangment from "./ProfessionalDiplomaIn_SocialMediaMarketingMangment";
+import AgileMarketing_and_MarketingScrum from "./AgileMarketing_and_MarketingScrum.png";
 //#endregion
 
 export {
@@ -95,5 +99,10 @@ export {
   UnityCertification,
   CcharpCertification,
   linkedin,
-  Overmon_Rpg
+  Overmon_Rpg,
+  PMP,
+  MasterCourseInMarketing_Fundamental,
+  ProfessionalDiplomaIn_ProjectManagement,
+  ProfessionalDiplomaIn_SocialMediaMarketingMangment,
+  AgileMarketing_and_MarketingScrum
 };

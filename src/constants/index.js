@@ -4,20 +4,14 @@ import {
   creator,
   web,
   javascript,
-  typescript,
   html,
   css,
   reactjs,
-  redux,
   tailwind,
   nodejs,
   mongodb,
   git,
   figma,
-  docker,
-  carrent,
-  jobit,
-  tripguide,
   threejs,
   illuminiaStudios,
   Ccharp,
@@ -30,7 +24,12 @@ import {
   ItRun,
   UnityCertification,
   CcharpCertification,
-  Overmon_Rpg
+  Overmon_Rpg,
+  PMP,
+  MasterCourseInMarketing_Fundamental,
+  ProfessionalDiplomaIn_ProjectManagement,
+  ProfessionalDiplomaIn_SocialMediaMarketingMangment,
+  AgileMarketing_and_MarketingScrum
 } from "../assets";
 
 export const navLinks = [
@@ -120,6 +119,18 @@ const technologies = [
     name: "SQL",
     icon: SQL,
   },
+  {
+    name: "nodejs",
+    icon: nodejs,
+  },
+  {
+    name: "mongodb",
+    icon: mongodb,
+  },
+  {
+    name: "figma",
+    icon: figma,
+  },
 ];
 
 //Refence to the experiences table 
@@ -179,6 +190,22 @@ const Certificate =[
     title :"Unity Certification",
     image :UnityCertification
   },
+  {
+    title:"Master Course In Marketing Fundamental Certificate",
+    image : MasterCourseInMarketing_Fundamental
+  },
+  {
+    title:"Professional Diploma In Project Management Certificate",
+    image : ProfessionalDiplomaIn_ProjectManagement
+  },
+  {
+    title:"Professional Diploma In SocialMedia Marketing Mangment Certificate",
+    image : ProfessionalDiplomaIn_SocialMediaMarketingMangment
+  },
+  {
+    title:"Agile Marketing and Marketing Scrum Certificate",
+    image : AgileMarketing_and_MarketingScrum
+  }
 ]
 
 const projects = [
